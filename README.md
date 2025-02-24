@@ -10,7 +10,7 @@ combined with my desire for continuous learning,
 have driven me to pursue a career in Quality
 Assurance.**
 
-### You can review my [resume](https://drive.google.com/file/d/1w6vpuryQsVCym-tI20jVxCKWWuRMfPpk/view?usp=sharing).
+### You can review my [resume](https://drive.google.com/file/d/1crwwi9Dqtr8r6UJZJemijSTy3Hqg06_j/view?usp=sharing).
 #### Examples of my work:
 1. [Traceability Matrix](https://docs.google.com/spreadsheets/d/1mhVgOouJt9qh7eElR0ghL9oaDIrDVRWZruTKHrsDTb8/edit?usp=sharing); 
 2. [Check-list](https://docs.google.com/spreadsheets/d/1w5p6NrKYOvV1CbAjXNORbKKgwFp8PLXXRo7bxImb3Cc/edit?usp=sharing);
