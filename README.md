@@ -21,3 +21,12 @@ Assurance.**
 7. [XML](https://drive.google.com/file/d/1qPmiwGhBF-EjT934z3nC8Ov-H56HhmBD/view?usp=sharing);
 8. [JSON](https://drive.google.com/file/d/1iMR4P6NN4cehT90frfTUON1DbsBtjwDD/view?usp=sharing);
 9. [Web Technologies. Client-Server Architecture](https://docs.google.com/spreadsheets/d/1vgR7NzZqZ7tE6WMbH94QUQE7vhuoNC6aj3CJ7W_SSfw/edit?usp=sharing);
+
+# 10. My first [[project]()] work with team.
+
+    **Project: _Power Pulse_**
+`In this team project, I was responsible for backend testing,
+using Swagger to test the API. I conducted manual testing,
+identified bugs, and created bug reports. Additionally, 
+I assisted the team in testing the frontend 
+to ensure the overall quality of the system.`
