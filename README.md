@@ -22,7 +22,7 @@ Assurance.**
 8. [JSON](https://drive.google.com/file/d/1iMR4P6NN4cehT90frfTUON1DbsBtjwDD/view?usp=sharing);
 9. [Web Technologies. Client-Server Architecture](https://docs.google.com/spreadsheets/d/1vgR7NzZqZ7tE6WMbH94QUQE7vhuoNC6aj3CJ7W_SSfw/edit?usp=sharing);
 
-# 10. My first [[project]()] work with team.
+# 10. My first [project]() work with team.
     Project: "Power Pulse"
 `In this team project, I was responsible for backend testing,
 using Swagger to test the API. I conducted manual testing,
